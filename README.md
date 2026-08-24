@@ -51,7 +51,8 @@ for i in range(n):
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="1282" height="832" alt="image" src="https://github.com/user-attachments/assets/f2ad6009-f405-4622-bd0c-1fd25f8419ff" />
+
 
 
 ## Result:
